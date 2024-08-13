@@ -1,11 +1,19 @@
 <h1 align="center"><b>Hey! Muhammad Ashhub Ali here </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <h3 align="center">A coding whiz, driven by innovation.</h3>
+
+<div align=center>
+
+[![Gmail: Muhammad Ashhub Ali](https://img.shields.io/badge/-gmail-04090d?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maali.bese21seecs@seecs.edu.pk)&nbsp;
+[![Linkedin: Muhammad Ashhub Ali](https://img.shields.io/badge/-linkedin-04090d?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ashhub-ali-911002237)&nbsp;
+
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NightWalker7558&label=Profile%20views&color=0e75b6&style=flat" alt="NightWalker7558" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NightWalker7558" alt="NightWalker7558" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NightWalker7558&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=darkhub&margin-w=8&margin-h=8" alt="NightWalker7558" /></a> </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="30"></picture> **About me**
 
 - 🌱 I’m currently developing **MERN Stack Applications** and learning **DevOps**
 - 👨‍💻 Check out my projects [here](https://github.com/NightWalker7558?tab=repositories)
@@ -59,45 +67,15 @@
 
 </p>
 
-<br>
-
------
-
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NightWalker7558&show_icons=true&locale=en&layout=compact" alt="NightWalker7558" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NightWalker7558&show_icons=true&locale=en" alt="NightWalker7558" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NightWalker7558&" alt="NightWalker7558" /></p>
-</div>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/muhammad-ashhub-ali-911002237/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Muhammad Ashhub Ali-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-<br>
-
-<li>
-<a href="mailto:maali.bese21seecs@seecs.edu.pk" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Muhammad Ashhub Ali-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NightWalker7558&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
+  <img src="https://github-readme-stats.vercel.app/api?username=NightWalker7558&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
+</picture> &nbsp;
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NightWalker7558&theme=tokyonight-duo&card_height=214" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NightWalker7558&theme=transparent&show_icons=true&locale=en&layout=compact" alt="NightWalker7558" /></p>
 </div>
 
 <br>
