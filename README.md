@@ -9,14 +9,14 @@
 
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NightWalker7558&label=Profile%20views&color=0e75b6&style=flat" alt="NightWalker7558" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshhubAli&label=Profile%20views&color=0e75b6&style=flat" alt="AshhubAli" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NightWalker7558&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=darkhub&margin-w=8&margin-h=8" alt="NightWalker7558" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshhubAli&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=darkhub&margin-w=8&margin-h=8" alt="AshhubAli" /></a> </p>
 
 ## <picture><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="30"></picture> **About me**
 
-- 🌱 I’m currently developing **MERN Stack Applications** and learning **DevOps**
-- 👨‍💻 Check out my projects [here](https://github.com/NightWalker7558?tab=repositories)
+- 🌱 I’m currently developing **FAST API Backend**, **React Native Applications**, and learning **DevOps**
+- 👨‍💻 Check out my projects [here](https://github.com/AshhubAli?tab=repositories)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -71,11 +71,11 @@
 <br>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NightWalker7558&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
-  <img src="https://github-readme-stats.vercel.app/api?username=NightWalker7558&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AshhubAli&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshhubAli&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
 </picture> &nbsp;
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NightWalker7558&theme=tokyonight-duo&card_height=214" alt="GitHub Streak" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NightWalker7558&theme=transparent&show_icons=true&locale=en&layout=compact" alt="NightWalker7558" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AshhubAli&theme=tokyonight-duo&card_height=214" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshhubAli&theme=transparent&show_icons=true&locale=en&layout=compact" alt="AshhubAli" /></p>
 </div>
 
 <br>
